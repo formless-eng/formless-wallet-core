@@ -1,0 +1,31 @@
+{
+  "name": "formless-wallet-core",
+  "version": "1.0.0",
+  "description": "Vendor agnostic wallet SDK shared by Formless products",
+  "main": "src/index.ts",
+  "author": "brandon@formless.xyz",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "jest",
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "@privy-io/react-auth": "2.8.3",
+    "react": "18.3.1",
+    "viem": "2.23.15",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@privy-io/react-auth": "2.8.3",
+    "@types/jest": "^29.5.3",
+    "@types/node": "^20.11.0",
+    "@types/react": "^18.3.1",
+    "jest": "^29.7.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "ts-jest": "^29.1.1",
+    "typescript": "5.8.3",
+    "viem": "2.23.15"
+  }
+}
