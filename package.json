@@ -1,6 +1,6 @@
 {
   "name": "formless-wallet-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vendor agnostic wallet SDK shared by Formless products",
   "main": "src/index.ts",
   "author": "brandon@formless.xyz",
